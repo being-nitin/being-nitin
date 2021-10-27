@@ -1,6 +1,6 @@
 ### Hola, I'm Nitin Singh! 👋
 
-- 🔭 I’m currently working on Front-end Devalopement.
+- 🔭 I’m currently working on Front-end Devalopment.
 - 🌱 I’m currently learning React.JS
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with database enhacement
