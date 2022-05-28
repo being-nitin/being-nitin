@@ -2,12 +2,12 @@
 
 ---
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16409581/nitin02) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=being-nitin"/>|
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16409581)](https://stackoverflow.com/users/16409581/nitin02) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=being-nitin"/>|
 |---|---|
  
  ---
  
-- 👨‍🎓I am Nitin Singh, currently embarking on my engineering journey from D.Y. Gla University Mathura , Uttar Pradesh.<br/>
+- 👨‍🎓I am Nitin Singh, currently embarking on my engineering journey from  Gla University Mathura , Uttar Pradesh.<br/>
 - 💻I am a **full-stack web developer**, **Competitive Programmer** as well as 📱**ML / AI enthusiast.**<br/>
 - 1000+ Followers on LinkedIn😎😇
 - 1⭐ coder on **CodeChef**<br/>
