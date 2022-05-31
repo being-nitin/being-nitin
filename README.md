@@ -78,7 +78,7 @@
 </div>
  
 <div align="center">
-<img src="https://github.com/being-nitin/being-nitin/blob/master/github-user-contribution.svg"></img>
+<img src="https://kothariji/kothariji/being-nitin/blob/master/github-user-contribution.svg"></img>
 </div>
 
 <div align="center">
