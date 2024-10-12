@@ -10,7 +10,7 @@
  
 - 👨‍🎓I am Nitin Singh, currently embarking on my engineering journey from  Gla University Mathura , Uttar Pradesh..<br/>
 - 💻I am a **full-stack web developer**, **Competitive Programmer** as well as 📱**ML / AI enthusiast.**<br/>
-- 10000+ Followers on LinkedIn😎😇
+- 16000+ Followers on LinkedIn😎😇
 - 2⭐ coder on **CodeChef**<br/>
 - I love❤ to make **exciting projects**. <br/>
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
