@@ -1,4 +1,3 @@
-[![@beingnitin0207's Holopin board](https://holopin.me/beingnitin0207)](https://holopin.io/@beingnitin0207)
 <h1 align="center">Hi there, I'm <a target="_blank" href="https://unrivaled-meringue-82d9e8.netlify.app/">Nitin Singh</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 
 ---
