@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm <a target="_blank" href="https://unrivaled-meringue-82d9e8.netlify.app/">Nitin Singh</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
-
----
-
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16409581)](https://stackoverflow.com/users/16409581/nitin02) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=being-nitin"/>|
-|---|---|
  
  ---
  
