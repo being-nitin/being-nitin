@@ -4,7 +4,6 @@
  
 - 👨‍🎓I am Nitin Singh, Building Healthcare Solutions in HMS & LMS | Founder | Co-Founder | Dsa Mentor | Software Engineer.
 <br/>
-- 20000+ Followers on LinkedIn😎😇
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
