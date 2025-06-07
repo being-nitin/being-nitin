@@ -2,16 +2,9 @@
  
  ---
  
-- 👨‍🎓I am Nitin Singh, currently embarking on my engineering journey from  Gla University Mathura , Uttar Pradesh..<br/>
-- 💻I am a **full-stack web developer**, **Competitive Programmer** as well as 📱**ML / AI enthusiast.**<br/>
-- 16000+ Followers on LinkedIn😎😇
-- 2⭐ coder on **CodeChef**<br/>
-- I love❤ to make **exciting projects**. <br/>
-- I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
-- I also love **python🐍, datascience** and machine-learning/artificial-intelligence.<br/>
-- 🔭 I’m currently working on a fullstack app.<br/>
-- 🌱 I’m currently learning to build progressive web apps(PWA's).<br/>
-
+- 👨‍🎓I am Nitin Singh, Building Healthcare Solutions in HMS & LMS | Founder | Co-Founder | Dsa Mentor | Software Engineer.
+<br/>
+- 20000+ Followers on LinkedIn😎😇
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
